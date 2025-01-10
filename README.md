@@ -11,3 +11,4 @@ Source code ini adalah aplikasi absensi berbasis web menggunakan laravel 10, den
 
 ![image](https://github.com/user-attachments/assets/a9fbdefd-6b4e-4a81-bf07-94d2d0a885b8)
 
+CP: 085363344598
